@@ -1,0 +1,38 @@
+public class estudiante {
+    private String cedula;
+    private String apellidos;
+    private String nombres;
+    private String activo;
+    public estudiante(String cedula,String apellidos,String nombres){
+        this.cedula-cedula;
+        this.apellidos-apellidos;
+        this.nombres-nombres;
+    }
+    public estudiante(String cedula,String apellidos){
+        this.cedula-cedula;
+        this.apellidos-apellidos;
+    }
+    public String getCedula(){
+        return cedula;
+    }
+    public void setCedula(String cedula){
+        this.cedula=cedula;
+    }
+}
+
+public class metodo2 {
+    protected String attibuteA;
+
+}
+public class demop1 {
+    public void method1(){
+        A a = new A();
+        a attibuteA ="Hello"
+    }
+}
+public class M3 {
+    public void method1 (){
+        A a = new  A();
+        a.attibute A ="Hola";
+        
+    }
